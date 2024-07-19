@@ -1,0 +1,1001 @@
+respondent_id,satisfaction_rating,recommendation,primary_reason
+1,4,No,Features
+2,5,No,Quality
+3,3,No,Customer Service
+4,5,No,Other
+5,5,No,Customer Service
+6,2,Yes,Customer Service
+7,3,No,Quality
+8,3,Yes,Quality
+9,3,No,Quality
+10,5,Yes,Price
+11,4,No,Features
+12,3,Yes,Price
+13,5,No,Features
+14,2,Yes,Features
+15,4,No,Customer Service
+16,2,Yes,Customer Service
+17,4,No,Features
+18,5,Yes,Features
+19,1,Yes,Price
+20,4,No,Price
+21,2,No,Customer Service
+22,5,Yes,Quality
+23,4,No,Features
+24,1,Yes,Price
+25,1,Yes,Customer Service
+26,3,Yes,Price
+27,3,No,Features
+28,2,Yes,Features
+29,4,Yes,Other
+30,4,No,Quality
+31,3,No,Other
+32,4,No,Customer Service
+33,4,No,Price
+34,1,Yes,Customer Service
+35,3,Yes,Features
+36,5,Yes,Other
+37,3,Yes,Other
+38,5,No,Other
+39,1,Yes,Customer Service
+40,2,Yes,Features
+41,4,No,Price
+42,1,Yes,Price
+43,4,Yes,Customer Service
+44,2,Yes,Other
+45,2,Yes,Quality
+46,1,Yes,Customer Service
+47,2,Yes,Customer Service
+48,5,No,Features
+49,2,No,Price
+50,4,Yes,Customer Service
+51,4,Yes,Customer Service
+52,4,No,Other
+53,4,Yes,Other
+54,5,Yes,Quality
+55,3,Yes,Features
+56,1,No,Quality
+57,4,Yes,Other
+58,2,No,Price
+59,4,Yes,Other
+60,2,No,Features
+61,2,No,Other
+62,4,Yes,Features
+63,5,No,Features
+64,2,Yes,Features
+65,2,No,Features
+66,4,Yes,Features
+67,2,Yes,Price
+68,2,No,Quality
+69,4,Yes,Customer Service
+70,4,Yes,Quality
+71,1,No,Features
+72,5,Yes,Price
+73,5,Yes,Other
+74,2,No,Price
+75,5,No,Features
+76,2,Yes,Price
+77,1,Yes,Price
+78,4,No,Features
+79,4,No,Price
+80,4,Yes,Customer Service
+81,5,No,Customer Service
+82,1,Yes,Price
+83,5,Yes,Other
+84,5,Yes,Features
+85,1,Yes,Customer Service
+86,1,Yes,Other
+87,1,No,Price
+88,1,No,Other
+89,4,No,Quality
+90,3,No,Customer Service
+91,3,Yes,Price
+92,1,Yes,Features
+93,3,Yes,Price
+94,3,Yes,Features
+95,1,No,Price
+96,3,Yes,Other
+97,5,Yes,Other
+98,2,No,Other
+99,2,No,Quality
+100,1,No,Features
+101,4,No,Other
+102,1,Yes,Quality
+103,4,Yes,Features
+104,2,No,Price
+105,1,Yes,Quality
+106,5,Yes,Customer Service
+107,3,Yes,Quality
+108,4,No,Quality
+109,3,Yes,Features
+110,3,No,Price
+111,1,Yes,Customer Service
+112,3,Yes,Other
+113,5,Yes,Other
+114,3,No,Quality
+115,1,Yes,Features
+116,5,No,Features
+117,2,No,Other
+118,3,No,Customer Service
+119,1,Yes,Price
+120,2,Yes,Customer Service
+121,2,Yes,Price
+122,4,Yes,Other
+123,5,No,Price
+124,3,No,Features
+125,1,No,Quality
+126,4,Yes,Quality
+127,5,No,Other
+128,4,Yes,Features
+129,5,No,Customer Service
+130,5,Yes,Features
+131,3,Yes,Quality
+132,5,No,Quality
+133,4,No,Features
+134,5,No,Features
+135,3,No,Quality
+136,3,Yes,Customer Service
+137,4,No,Other
+138,2,No,Other
+139,2,No,Features
+140,5,Yes,Other
+141,1,Yes,Quality
+142,5,No,Quality
+143,4,Yes,Features
+144,4,No,Features
+145,4,Yes,Features
+146,4,Yes,Customer Service
+147,4,Yes,Other
+148,3,Yes,Features
+149,2,No,Price
+150,4,No,Price
+151,1,No,Quality
+152,1,Yes,Other
+153,1,No,Features
+154,1,No,Price
+155,3,No,Other
+156,1,Yes,Quality
+157,4,Yes,Customer Service
+158,5,Yes,Other
+159,1,No,Other
+160,3,No,Customer Service
+161,3,No,Other
+162,1,Yes,Quality
+163,5,Yes,Quality
+164,1,No,Customer Service
+165,3,Yes,Features
+166,2,Yes,Price
+167,4,Yes,Features
+168,3,Yes,Other
+169,1,No,Price
+170,4,Yes,Customer Service
+171,1,Yes,Customer Service
+172,1,Yes,Price
+173,2,Yes,Quality
+174,4,No,Price
+175,4,No,Other
+176,2,Yes,Quality
+177,3,Yes,Customer Service
+178,1,Yes,Price
+179,5,Yes,Features
+180,1,Yes,Features
+181,1,Yes,Other
+182,3,No,Features
+183,1,Yes,Price
+184,2,No,Price
+185,2,No,Features
+186,4,Yes,Price
+187,5,No,Other
+188,1,No,Quality
+189,1,No,Other
+190,3,No,Other
+191,2,No,Price
+192,5,No,Quality
+193,4,Yes,Price
+194,2,No,Customer Service
+195,4,No,Price
+196,3,No,Price
+197,3,Yes,Price
+198,1,No,Quality
+199,5,Yes,Price
+200,4,No,Quality
+201,2,Yes,Features
+202,3,Yes,Customer Service
+203,1,No,Quality
+204,1,No,Features
+205,4,Yes,Quality
+206,3,No,Quality
+207,5,Yes,Customer Service
+208,3,Yes,Other
+209,4,Yes,Other
+210,4,Yes,Quality
+211,3,Yes,Price
+212,4,No,Features
+213,3,Yes,Price
+214,2,Yes,Price
+215,3,No,Quality
+216,3,Yes,Quality
+217,4,No,Quality
+218,4,No,Quality
+219,1,No,Other
+220,1,Yes,Quality
+221,2,Yes,Other
+222,1,Yes,Other
+223,3,No,Quality
+224,4,Yes,Customer Service
+225,1,No,Features
+226,1,Yes,Price
+227,2,No,Other
+228,2,Yes,Features
+229,3,Yes,Customer Service
+230,4,Yes,Price
+231,2,No,Price
+232,1,No,Other
+233,4,Yes,Quality
+234,4,Yes,Customer Service
+235,1,No,Other
+236,2,No,Customer Service
+237,1,No,Quality
+238,4,Yes,Quality
+239,5,No,Other
+240,5,Yes,Quality
+241,3,No,Features
+242,1,Yes,Price
+243,1,No,Other
+244,3,No,Customer Service
+245,3,No,Features
+246,3,No,Other
+247,4,No,Quality
+248,1,Yes,Quality
+249,4,No,Quality
+250,3,No,Quality
+251,1,No,Customer Service
+252,4,Yes,Features
+253,4,No,Price
+254,3,Yes,Customer Service
+255,1,No,Customer Service
+256,3,No,Price
+257,1,Yes,Price
+258,5,No,Quality
+259,2,Yes,Customer Service
+260,2,Yes,Other
+261,2,No,Price
+262,3,Yes,Price
+263,5,No,Features
+264,1,No,Other
+265,4,Yes,Other
+266,1,Yes,Price
+267,4,Yes,Quality
+268,1,Yes,Features
+269,5,No,Other
+270,4,No,Price
+271,3,Yes,Other
+272,1,No,Features
+273,1,No,Features
+274,4,No,Customer Service
+275,3,No,Price
+276,3,Yes,Features
+277,5,Yes,Customer Service
+278,3,No,Customer Service
+279,3,Yes,Other
+280,3,Yes,Other
+281,2,Yes,Customer Service
+282,5,No,Other
+283,1,No,Features
+284,4,No,Quality
+285,1,Yes,Features
+286,5,No,Customer Service
+287,4,No,Customer Service
+288,5,Yes,Features
+289,3,No,Other
+290,4,No,Other
+291,3,Yes,Customer Service
+292,1,Yes,Price
+293,1,Yes,Other
+294,4,No,Features
+295,4,No,Other
+296,5,No,Features
+297,5,Yes,Customer Service
+298,3,Yes,Other
+299,4,No,Features
+300,1,No,Customer Service
+301,5,Yes,Price
+302,5,Yes,Features
+303,1,Yes,Price
+304,5,Yes,Price
+305,3,No,Quality
+306,4,Yes,Other
+307,1,No,Features
+308,4,No,Price
+309,5,No,Quality
+310,5,Yes,Customer Service
+311,1,Yes,Features
+312,3,Yes,Price
+313,2,Yes,Other
+314,1,No,Quality
+315,2,Yes,Price
+316,2,Yes,Other
+317,3,No,Price
+318,2,Yes,Features
+319,2,No,Features
+320,3,No,Features
+321,2,No,Quality
+322,2,No,Features
+323,2,No,Other
+324,1,No,Price
+325,1,No,Customer Service
+326,1,No,Other
+327,3,Yes,Other
+328,5,Yes,Features
+329,2,Yes,Quality
+330,2,Yes,Price
+331,3,No,Quality
+332,2,Yes,Price
+333,1,No,Price
+334,5,Yes,Quality
+335,4,Yes,Other
+336,2,Yes,Price
+337,1,No,Quality
+338,4,Yes,Price
+339,5,No,Customer Service
+340,4,No,Other
+341,1,Yes,Features
+342,4,Yes,Price
+343,3,Yes,Customer Service
+344,4,No,Features
+345,2,Yes,Features
+346,2,No,Price
+347,3,No,Quality
+348,1,Yes,Price
+349,2,Yes,Customer Service
+350,5,No,Features
+351,2,No,Price
+352,2,No,Quality
+353,1,Yes,Price
+354,4,No,Other
+355,2,Yes,Quality
+356,3,No,Customer Service
+357,4,No,Features
+358,5,Yes,Price
+359,1,No,Quality
+360,5,Yes,Other
+361,4,Yes,Quality
+362,4,No,Other
+363,4,Yes,Customer Service
+364,5,Yes,Features
+365,4,No,Customer Service
+366,5,Yes,Price
+367,4,Yes,Quality
+368,3,Yes,Other
+369,4,No,Other
+370,5,Yes,Quality
+371,2,No,Quality
+372,4,No,Price
+373,2,Yes,Customer Service
+374,3,Yes,Other
+375,1,Yes,Price
+376,3,No,Customer Service
+377,4,Yes,Price
+378,2,Yes,Other
+379,2,Yes,Quality
+380,5,Yes,Quality
+381,2,Yes,Customer Service
+382,5,No,Features
+383,1,No,Customer Service
+384,4,Yes,Features
+385,5,Yes,Price
+386,1,Yes,Price
+387,2,Yes,Other
+388,2,No,Features
+389,1,Yes,Other
+390,2,No,Quality
+391,1,No,Features
+392,5,Yes,Customer Service
+393,5,No,Quality
+394,1,No,Quality
+395,5,No,Customer Service
+396,5,No,Quality
+397,5,Yes,Features
+398,3,Yes,Other
+399,4,No,Quality
+400,2,Yes,Features
+401,3,Yes,Price
+402,5,Yes,Features
+403,1,Yes,Other
+404,5,Yes,Features
+405,4,No,Customer Service
+406,5,Yes,Other
+407,1,Yes,Price
+408,4,Yes,Customer Service
+409,5,Yes,Features
+410,4,No,Other
+411,2,No,Price
+412,2,No,Customer Service
+413,5,No,Price
+414,4,Yes,Features
+415,1,No,Price
+416,5,Yes,Quality
+417,2,Yes,Customer Service
+418,2,Yes,Price
+419,5,Yes,Features
+420,4,Yes,Features
+421,2,No,Price
+422,4,No,Features
+423,2,No,Other
+424,2,No,Other
+425,3,Yes,Other
+426,2,No,Quality
+427,1,Yes,Price
+428,5,No,Quality
+429,5,Yes,Features
+430,4,Yes,Quality
+431,2,No,Features
+432,1,Yes,Features
+433,4,Yes,Customer Service
+434,3,No,Other
+435,4,Yes,Features
+436,4,No,Customer Service
+437,2,No,Other
+438,3,No,Features
+439,4,Yes,Features
+440,1,Yes,Quality
+441,1,Yes,Quality
+442,5,No,Other
+443,3,Yes,Features
+444,3,No,Price
+445,5,No,Quality
+446,4,Yes,Other
+447,3,No,Features
+448,1,Yes,Features
+449,1,Yes,Price
+450,2,Yes,Other
+451,3,Yes,Features
+452,4,Yes,Quality
+453,5,No,Price
+454,5,No,Other
+455,4,No,Price
+456,2,Yes,Quality
+457,5,Yes,Other
+458,3,Yes,Price
+459,2,No,Customer Service
+460,3,Yes,Quality
+461,1,No,Quality
+462,2,No,Quality
+463,5,Yes,Customer Service
+464,2,Yes,Customer Service
+465,2,No,Features
+466,2,Yes,Price
+467,2,No,Features
+468,3,Yes,Price
+469,1,Yes,Customer Service
+470,4,No,Customer Service
+471,2,Yes,Features
+472,5,No,Other
+473,2,Yes,Features
+474,5,No,Price
+475,3,No,Features
+476,5,Yes,Quality
+477,4,No,Price
+478,1,Yes,Price
+479,5,Yes,Other
+480,5,Yes,Customer Service
+481,1,No,Price
+482,4,No,Customer Service
+483,2,Yes,Features
+484,5,Yes,Quality
+485,1,No,Other
+486,3,Yes,Customer Service
+487,1,Yes,Price
+488,3,No,Customer Service
+489,4,Yes,Price
+490,2,No,Customer Service
+491,1,Yes,Price
+492,5,No,Features
+493,4,Yes,Price
+494,1,Yes,Price
+495,5,No,Quality
+496,1,Yes,Price
+497,3,No,Quality
+498,1,Yes,Other
+499,1,No,Quality
+500,1,No,Features
+501,4,No,Quality
+502,1,No,Other
+503,5,Yes,Features
+504,3,Yes,Customer Service
+505,3,No,Customer Service
+506,1,No,Quality
+507,4,No,Quality
+508,4,Yes,Other
+509,5,Yes,Other
+510,1,Yes,Price
+511,3,Yes,Other
+512,4,No,Price
+513,1,No,Features
+514,4,No,Quality
+515,4,Yes,Features
+516,3,Yes,Other
+517,2,Yes,Features
+518,5,No,Features
+519,5,No,Features
+520,3,Yes,Other
+521,4,No,Features
+522,1,Yes,Price
+523,4,Yes,Other
+524,3,No,Features
+525,5,Yes,Other
+526,4,No,Customer Service
+527,5,Yes,Price
+528,1,No,Features
+529,5,No,Customer Service
+530,5,No,Customer Service
+531,2,Yes,Other
+532,2,Yes,Customer Service
+533,2,No,Price
+534,5,No,Price
+535,3,Yes,Quality
+536,5,Yes,Price
+537,3,Yes,Customer Service
+538,3,No,Price
+539,2,Yes,Other
+540,4,Yes,Quality
+541,1,No,Customer Service
+542,2,Yes,Quality
+543,2,Yes,Customer Service
+544,4,Yes,Other
+545,1,No,Quality
+546,5,No,Features
+547,5,No,Customer Service
+548,2,No,Features
+549,1,No,Quality
+550,2,No,Features
+551,3,No,Features
+552,2,Yes,Quality
+553,2,Yes,Other
+554,5,No,Features
+555,5,Yes,Features
+556,5,Yes,Other
+557,3,No,Features
+558,5,Yes,Features
+559,1,Yes,Features
+560,4,Yes,Price
+561,1,Yes,Other
+562,1,Yes,Features
+563,5,No,Other
+564,4,No,Customer Service
+565,4,No,Customer Service
+566,4,Yes,Features
+567,3,No,Other
+568,5,Yes,Other
+569,4,Yes,Other
+570,3,Yes,Price
+571,2,Yes,Customer Service
+572,2,No,Other
+573,3,No,Other
+574,3,Yes,Price
+575,5,No,Price
+576,5,Yes,Other
+577,2,No,Quality
+578,4,No,Other
+579,2,Yes,Other
+580,4,No,Price
+581,4,Yes,Price
+582,5,No,Other
+583,1,Yes,Other
+584,1,Yes,Other
+585,3,No,Price
+586,5,No,Other
+587,4,Yes,Other
+588,1,No,Features
+589,4,No,Quality
+590,1,Yes,Customer Service
+591,1,Yes,Quality
+592,1,No,Features
+593,5,Yes,Customer Service
+594,2,Yes,Other
+595,4,Yes,Features
+596,5,No,Other
+597,5,No,Price
+598,5,Yes,Features
+599,5,No,Price
+600,5,Yes,Features
+601,3,No,Features
+602,4,Yes,Price
+603,5,Yes,Customer Service
+604,4,No,Quality
+605,3,Yes,Other
+606,3,No,Features
+607,4,No,Other
+608,1,Yes,Price
+609,2,Yes,Other
+610,1,No,Price
+611,1,Yes,Other
+612,1,Yes,Quality
+613,5,Yes,Quality
+614,3,Yes,Quality
+615,1,Yes,Quality
+616,3,No,Quality
+617,4,No,Quality
+618,2,Yes,Price
+619,4,Yes,Features
+620,4,Yes,Other
+621,5,No,Quality
+622,2,Yes,Price
+623,4,No,Price
+624,4,No,Price
+625,2,No,Features
+626,2,Yes,Other
+627,4,No,Features
+628,2,Yes,Customer Service
+629,4,No,Price
+630,4,Yes,Customer Service
+631,5,No,Quality
+632,1,Yes,Quality
+633,4,No,Features
+634,3,Yes,Other
+635,1,Yes,Customer Service
+636,1,Yes,Other
+637,1,Yes,Features
+638,5,No,Quality
+639,4,No,Other
+640,5,Yes,Other
+641,4,No,Quality
+642,5,Yes,Customer Service
+643,5,Yes,Quality
+644,3,No,Other
+645,5,Yes,Customer Service
+646,2,Yes,Customer Service
+647,3,No,Quality
+648,5,Yes,Other
+649,1,Yes,Features
+650,2,Yes,Other
+651,2,Yes,Price
+652,2,No,Features
+653,3,No,Customer Service
+654,5,No,Features
+655,5,Yes,Customer Service
+656,1,Yes,Customer Service
+657,1,No,Features
+658,2,Yes,Customer Service
+659,1,Yes,Customer Service
+660,3,Yes,Price
+661,5,Yes,Other
+662,2,No,Other
+663,1,No,Price
+664,3,No,Features
+665,3,Yes,Quality
+666,1,No,Quality
+667,5,No,Quality
+668,1,Yes,Price
+669,2,Yes,Price
+670,1,No,Customer Service
+671,3,No,Quality
+672,1,No,Features
+673,5,No,Features
+674,4,Yes,Quality
+675,1,No,Quality
+676,5,No,Quality
+677,5,Yes,Price
+678,3,No,Price
+679,5,Yes,Price
+680,5,Yes,Other
+681,5,Yes,Features
+682,5,No,Features
+683,2,No,Customer Service
+684,2,Yes,Price
+685,3,No,Other
+686,1,No,Other
+687,5,Yes,Features
+688,1,Yes,Price
+689,1,No,Customer Service
+690,3,Yes,Price
+691,5,No,Quality
+692,5,No,Price
+693,4,No,Quality
+694,1,No,Quality
+695,1,Yes,Customer Service
+696,2,Yes,Features
+697,4,Yes,Price
+698,2,Yes,Quality
+699,2,No,Price
+700,2,No,Features
+701,3,Yes,Features
+702,3,No,Other
+703,2,No,Features
+704,4,No,Customer Service
+705,1,Yes,Quality
+706,4,Yes,Other
+707,5,Yes,Customer Service
+708,3,No,Price
+709,1,Yes,Quality
+710,1,Yes,Features
+711,5,Yes,Quality
+712,5,Yes,Price
+713,2,Yes,Other
+714,3,Yes,Other
+715,3,No,Other
+716,4,No,Features
+717,2,Yes,Customer Service
+718,2,Yes,Customer Service
+719,2,No,Quality
+720,2,No,Features
+721,3,Yes,Other
+722,3,Yes,Other
+723,2,Yes,Price
+724,4,Yes,Price
+725,1,No,Other
+726,1,Yes,Other
+727,4,Yes,Features
+728,2,Yes,Customer Service
+729,3,Yes,Price
+730,1,No,Customer Service
+731,5,No,Features
+732,5,No,Other
+733,4,Yes,Customer Service
+734,2,Yes,Other
+735,1,No,Other
+736,2,Yes,Quality
+737,1,Yes,Customer Service
+738,4,No,Customer Service
+739,4,No,Other
+740,5,No,Features
+741,2,No,Quality
+742,5,Yes,Other
+743,2,Yes,Price
+744,5,No,Price
+745,3,Yes,Quality
+746,3,No,Features
+747,3,No,Other
+748,3,Yes,Customer Service
+749,1,No,Quality
+750,3,Yes,Features
+751,4,Yes,Customer Service
+752,4,Yes,Price
+753,1,Yes,Price
+754,3,No,Customer Service
+755,3,Yes,Quality
+756,3,No,Price
+757,5,No,Other
+758,2,No,Customer Service
+759,5,No,Customer Service
+760,2,Yes,Price
+761,3,Yes,Quality
+762,3,No,Other
+763,5,No,Quality
+764,5,Yes,Features
+765,2,No,Features
+766,4,Yes,Price
+767,2,No,Price
+768,5,Yes,Price
+769,5,No,Features
+770,1,No,Quality
+771,5,Yes,Quality
+772,1,No,Price
+773,4,No,Other
+774,2,Yes,Quality
+775,2,No,Features
+776,1,Yes,Customer Service
+777,2,Yes,Customer Service
+778,5,No,Customer Service
+779,3,No,Other
+780,1,No,Price
+781,2,No,Features
+782,1,No,Other
+783,1,No,Features
+784,3,No,Features
+785,5,Yes,Price
+786,1,No,Customer Service
+787,2,Yes,Price
+788,4,No,Other
+789,1,No,Other
+790,1,Yes,Other
+791,3,No,Price
+792,5,No,Features
+793,4,Yes,Features
+794,2,No,Quality
+795,4,No,Other
+796,2,No,Features
+797,5,Yes,Quality
+798,2,No,Features
+799,3,No,Other
+800,3,No,Customer Service
+801,3,No,Other
+802,3,Yes,Price
+803,4,Yes,Features
+804,5,No,Features
+805,2,No,Price
+806,2,Yes,Price
+807,3,Yes,Customer Service
+808,3,No,Features
+809,1,Yes,Features
+810,5,No,Customer Service
+811,4,Yes,Quality
+812,2,Yes,Customer Service
+813,1,Yes,Other
+814,1,Yes,Features
+815,2,No,Price
+816,4,Yes,Other
+817,1,Yes,Features
+818,1,No,Customer Service
+819,5,Yes,Other
+820,4,Yes,Features
+821,1,No,Quality
+822,4,Yes,Quality
+823,2,No,Price
+824,3,No,Features
+825,1,No,Quality
+826,5,No,Customer Service
+827,2,Yes,Features
+828,4,No,Customer Service
+829,2,Yes,Customer Service
+830,1,Yes,Quality
+831,4,Yes,Features
+832,3,Yes,Other
+833,2,Yes,Quality
+834,1,Yes,Quality
+835,5,Yes,Features
+836,4,Yes,Features
+837,2,Yes,Customer Service
+838,2,Yes,Features
+839,3,No,Customer Service
+840,3,No,Quality
+841,5,No,Price
+842,5,Yes,Other
+843,1,No,Quality
+844,1,No,Features
+845,5,No,Other
+846,5,Yes,Price
+847,4,Yes,Price
+848,3,Yes,Customer Service
+849,1,Yes,Other
+850,3,No,Customer Service
+851,3,No,Quality
+852,5,No,Other
+853,4,No,Quality
+854,2,Yes,Customer Service
+855,4,Yes,Other
+856,4,Yes,Customer Service
+857,3,No,Other
+858,4,Yes,Customer Service
+859,1,Yes,Price
+860,3,No,Customer Service
+861,1,No,Price
+862,2,Yes,Customer Service
+863,3,Yes,Other
+864,2,Yes,Other
+865,3,Yes,Other
+866,5,Yes,Features
+867,4,Yes,Quality
+868,5,No,Other
+869,2,No,Price
+870,4,No,Other
+871,3,Yes,Features
+872,4,No,Price
+873,1,Yes,Features
+874,4,Yes,Price
+875,1,No,Customer Service
+876,4,Yes,Quality
+877,1,Yes,Quality
+878,2,No,Features
+879,5,No,Quality
+880,3,No,Features
+881,4,Yes,Features
+882,5,No,Features
+883,3,No,Quality
+884,3,Yes,Features
+885,1,No,Quality
+886,2,No,Features
+887,2,No,Other
+888,5,Yes,Features
+889,2,Yes,Price
+890,4,Yes,Features
+891,2,Yes,Customer Service
+892,5,No,Features
+893,2,Yes,Price
+894,4,Yes,Price
+895,1,No,Quality
+896,5,No,Other
+897,1,No,Features
+898,1,Yes,Quality
+899,1,Yes,Other
+900,3,Yes,Features
+901,3,No,Customer Service
+902,1,No,Features
+903,5,Yes,Price
+904,4,No,Price
+905,4,No,Customer Service
+906,2,No,Quality
+907,5,Yes,Other
+908,3,No,Features
+909,1,No,Price
+910,2,Yes,Quality
+911,4,Yes,Customer Service
+912,3,No,Price
+913,3,No,Customer Service
+914,1,Yes,Features
+915,4,Yes,Other
+916,5,No,Price
+917,3,No,Price
+918,1,No,Features
+919,5,No,Quality
+920,4,Yes,Other
+921,3,No,Price
+922,5,No,Other
+923,5,Yes,Price
+924,5,No,Other
+925,3,Yes,Customer Service
+926,3,No,Price
+927,2,No,Other
+928,4,Yes,Quality
+929,1,Yes,Customer Service
+930,5,No,Customer Service
+931,2,No,Quality
+932,1,No,Other
+933,2,Yes,Features
+934,3,No,Quality
+935,5,Yes,Other
+936,1,Yes,Quality
+937,1,No,Quality
+938,1,Yes,Price
+939,1,No,Other
+940,1,No,Features
+941,2,No,Price
+942,5,No,Quality
+943,3,No,Quality
+944,3,Yes,Quality
+945,3,Yes,Other
+946,3,No,Other
+947,2,No,Price
+948,4,Yes,Features
+949,5,Yes,Price
+950,1,Yes,Customer Service
+951,4,Yes,Quality
+952,3,No,Quality
+953,4,No,Quality
+954,5,Yes,Price
+955,1,No,Price
+956,1,Yes,Quality
+957,5,No,Price
+958,5,Yes,Other
+959,3,No,Other
+960,1,Yes,Price
+961,4,Yes,Quality
+962,2,No,Price
+963,2,Yes,Price
+964,5,No,Price
+965,3,No,Customer Service
+966,2,Yes,Other
+967,1,No,Features
+968,5,No,Features
+969,4,No,Customer Service
+970,5,No,Price
+971,4,No,Customer Service
+972,5,Yes,Customer Service
+973,5,No,Quality
+974,5,No,Other
+975,4,No,Features
+976,4,No,Price
+977,5,No,Features
+978,2,Yes,Features
+979,3,No,Other
+980,3,Yes,Features
+981,3,Yes,Features
+982,4,Yes,Customer Service
+983,4,Yes,Other
+984,2,No,Quality
+985,3,Yes,Price
+986,3,Yes,Features
+987,5,No,Price
+988,4,No,Quality
+989,3,No,Price
+990,2,Yes,Quality
+991,2,No,Customer Service
+992,3,No,Features
+993,4,Yes,Quality
+994,2,No,Price
+995,5,No,Features
+996,2,No,Customer Service
+997,1,No,Features
+998,1,Yes,Quality
+999,4,No,Customer Service
+1000,3,No,Price
